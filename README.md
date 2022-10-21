@@ -2,4 +2,4 @@
 
 In the world of English, there are certain words that look exactly the same from beginning and end.
 Check whether you got some: <br>
-[Live link]()
+[Live link](https://cosmic-arithmetic-df8624.netlify.app/)

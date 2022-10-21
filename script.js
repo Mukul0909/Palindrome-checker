@@ -24,4 +24,3 @@ let text = document.getElementById('word');
                     display.innerHTML = `"${phrase}" is not a Palindrome`;
                 }
             })
-
